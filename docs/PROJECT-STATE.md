@@ -12,11 +12,11 @@ IN_PROGRESS
 
 ## Active Working Item
 
-Establish the minimum governance documents required by `docs/00-START-HERE.md`.
+Prepare the initial audit plan for the WordPress + Elementor Pro to Cloudflare Pages / Workers migration.
 
 ## Next Approved Item
 
-Create `docs/CONTEXT-PROTOCOL.md`.
+Claude must create the initial audit plan as `docs/AUDIT-PLAN.md`.
 
 ## Production State
 
@@ -31,7 +31,7 @@ Create `docs/CONTEXT-PROTOCOL.md`.
 
 ## Audit State
 
-NOT_STARTED
+PLANNING
 
 Audit planning owner: Claude.
 
