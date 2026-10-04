@@ -4,7 +4,7 @@ Last updated: 2026-10-03
 
 ## Current Phase
 
-PHASE 0 — Documentation bootstrap
+PHASE 1 — Audit
 
 ## Status
 
@@ -12,11 +12,11 @@ IN_PROGRESS
 
 ## Active Working Item
 
-Prepare the initial audit plan for the WordPress + Elementor Pro to Cloudflare Pages / Workers migration.
+AUD-001 — Access and ownership inventory.
 
 ## Next Approved Item
 
-Claude must create the initial audit plan as `docs/AUDIT-PLAN.md`.
+Execute AUD-001 as defined in `docs/AUDIT-PLAN.md`.
 
 ## Production State
 
@@ -31,9 +31,15 @@ Claude must create the initial audit plan as `docs/AUDIT-PLAN.md`.
 
 ## Audit State
 
-PLANNING
+AUD-001_APPROVED
 
 Audit planning owner: Claude.
+Execution orchestrator: ChatGPT.
+
+## Resolved Audit Prerequisites
+
+- OQ-02 resolved by `docs/ARTIFACT-CONVENTIONS.md`.
+- OQ-03 resolved by `docs/SECRETS-POLICY.md`.
 
 ## Execution Orchestration
 
