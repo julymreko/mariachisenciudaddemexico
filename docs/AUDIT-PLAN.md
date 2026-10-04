@@ -1,6 +1,6 @@
 # Audit Plan
 
-Status: DRAFT — pending approval by Julián Cely.
+Status: APPROVED — approved by Julián Cely on 2026-10-03.
 Owner: Claude (audit planning lead).
 Governance: `docs/00-START-HERE.md`, `docs/PROJECT-STATE.md`, `docs/CONTEXT-PROTOCOL.md`.
 
