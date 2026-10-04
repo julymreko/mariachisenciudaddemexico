@@ -12,11 +12,11 @@ IN_PROGRESS
 
 ## Active Working Item
 
-AUD-001 — Access and ownership inventory.
+None — AUD-001 completed.
 
 ## Next Approved Item
 
-Execute AUD-001 as defined in `docs/AUDIT-PLAN.md`.
+None. AUD-002 is pending Julián's explicit approval.
 
 ## Production State
 
@@ -31,7 +31,11 @@ Execute AUD-001 as defined in `docs/AUDIT-PLAN.md`.
 
 ## Audit State
 
-AUD-001_APPROVED
+AUD-001_COMPLETED
+
+Completed audit packages:
+
+- AUD-001 — Access and ownership inventory
 
 Audit planning owner: Claude.
 Execution orchestrator: ChatGPT.
@@ -40,6 +44,12 @@ Execution orchestrator: ChatGPT.
 
 - OQ-02 resolved by `docs/ARTIFACT-CONVENTIONS.md`.
 - OQ-03 resolved by `docs/SECRETS-POLICY.md`.
+
+## Known Access Gaps
+
+- Wix registrar / authoritative DNS is client-managed.
+- Google Ads is client-managed.
+- These gaps are documented in `docs/audits/AUD-001-access-inventory.md`.
 
 ## Execution Orchestration
 
