@@ -12,11 +12,11 @@ IN_PROGRESS
 
 ## Active Working Item
 
-None — AUD-001 completed.
+AUD-002 — DNS, nameserver, and email-authentication baseline.
 
 ## Next Approved Item
 
-None. AUD-002 is pending Julián's explicit approval.
+Execute AUD-002 as defined in `docs/AUDIT-PLAN.md`.
 
 ## Production State
 
@@ -31,7 +31,7 @@ None. AUD-002 is pending Julián's explicit approval.
 
 ## Audit State
 
-AUD-001_COMPLETED
+AUD-002_APPROVED
 
 Completed audit packages:
 
