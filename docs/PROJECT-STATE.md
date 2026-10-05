@@ -46,6 +46,7 @@ Execution orchestrator: ChatGPT.
 
 - OQ-02 resolved by `docs/ARTIFACT-CONVENTIONS.md`.
 - OQ-03 resolved by `docs/SECRETS-POLICY.md`.
+- OQ-04 resolved by Julian on 2026-10-04. Production crawl authorized with: maximum 1 request/second, concurrency 1, maximum 500 URLs, GET/HEAD only, no forms, no login, no wp-admin, no POST, and no artificially generated parameters.
 
 ## Deferred Audit Requirement
 
