@@ -12,11 +12,11 @@ IN_PROGRESS
 
 ## Active Working Item
 
-AUD-002 — DNS, nameserver, and email-authentication baseline — PARTIAL / BLOCKED.
+None — AUD-002 completed with deferred Wix authoritative evidence.
 
 ## Next Approved Item
 
-None. AUD-002 remains blocked pending authoritative Wix DNS-zone evidence or Julián's explicit waiver/deferment.
+None. AUD-003 is pending Julián's explicit approval.
 
 ## Production State
 
@@ -31,11 +31,12 @@ None. AUD-002 remains blocked pending authoritative Wix DNS-zone evidence or Jul
 
 ## Audit State
 
-AUD-002_PARTIAL_BLOCKED
+AUD-002_COMPLETED_WITH_DEFERMENT
 
 Completed audit packages:
 
 - AUD-001 — Access and ownership inventory
+- AUD-002 — DNS, nameserver, and email-authentication baseline
 
 Audit planning owner: Claude.
 Execution orchestrator: ChatGPT.
@@ -44,6 +45,13 @@ Execution orchestrator: ChatGPT.
 
 - OQ-02 resolved by `docs/ARTIFACT-CONVENTIONS.md`.
 - OQ-03 resolved by `docs/SECRETS-POLICY.md`.
+
+
+## Deferred Audit Requirement
+
+- Authoritative Wix DNS-zone export / panel evidence is deferred until migration-related work.
+- Public DNS and Zoho evidence are the current operational baseline.
+- Before any production DNS or nameserver change, the Wix zone must be captured and reconciled against the AUD-002 baseline.
 
 ## Known Access Gaps
 
