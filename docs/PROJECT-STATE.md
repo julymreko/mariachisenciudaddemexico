@@ -12,11 +12,11 @@ IN_PROGRESS
 
 ## Active Working Item
 
-AUD-002 — DNS, nameserver, and email-authentication baseline.
+AUD-002 — DNS, nameserver, and email-authentication baseline — PARTIAL / BLOCKED.
 
 ## Next Approved Item
 
-Execute AUD-002 as defined in `docs/AUDIT-PLAN.md`.
+None. AUD-002 remains blocked pending authoritative Wix DNS-zone evidence or Julián's explicit waiver/deferment.
 
 ## Production State
 
@@ -31,7 +31,7 @@ Execute AUD-002 as defined in `docs/AUDIT-PLAN.md`.
 
 ## Audit State
 
-AUD-002_APPROVED
+AUD-002_PARTIAL_BLOCKED
 
 Completed audit packages:
 
