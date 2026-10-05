@@ -1,6 +1,6 @@
 ﻿# PROJECT STATE
 
-Last updated: 2026-10-03
+Last updated: 2026-10-04
 
 ## Current Phase
 
@@ -12,11 +12,11 @@ IN_PROGRESS
 
 ## Active Working Item
 
-None — AUD-002 completed with deferred Wix authoritative evidence.
+AUD-003 - Production architecture, hosting, and origin behavior.
 
 ## Next Approved Item
 
-None. AUD-003 is pending Julián's explicit approval.
+Execute AUD-003 as defined in `docs/AUDIT-PLAN.md`.
 
 ## Production State
 
@@ -31,12 +31,12 @@ None. AUD-003 is pending Julián's explicit approval.
 
 ## Audit State
 
-AUD-002_COMPLETED_WITH_DEFERMENT
+AUD-003_APPROVED
 
 Completed audit packages:
 
-- AUD-001 — Access and ownership inventory
-- AUD-002 — DNS, nameserver, and email-authentication baseline
+- AUD-001 - Access and ownership inventory
+- AUD-002 - DNS, nameserver, and email-authentication baseline
 
 Audit planning owner: Claude.
 Execution orchestrator: ChatGPT.
@@ -45,7 +45,6 @@ Execution orchestrator: ChatGPT.
 
 - OQ-02 resolved by `docs/ARTIFACT-CONVENTIONS.md`.
 - OQ-03 resolved by `docs/SECRETS-POLICY.md`.
-
 
 ## Deferred Audit Requirement
 
@@ -65,4 +64,4 @@ ChatGPT coordinates execution, documentation, handoffs, and consolidation.
 
 ## Decision Authority
 
-Julián Cely is the final authority for product, scope, architecture, and unresolved decisions.
+Julian Cely is the final authority for product, scope, architecture, and unresolved decisions.
