@@ -12,11 +12,11 @@ IN_PROGRESS
 
 ## Active Working Item
 
-AUD-003 - Production architecture, hosting, and origin behavior.
+None - AUD-003 completed.
 
 ## Next Approved Item
 
-Execute AUD-003 as defined in `docs/AUDIT-PLAN.md`.
+None. AUD-004 is pending Julian's explicit approval.
 
 ## Production State
 
@@ -31,12 +31,13 @@ Execute AUD-003 as defined in `docs/AUDIT-PLAN.md`.
 
 ## Audit State
 
-AUD-003_APPROVED
+AUD-003_COMPLETED
 
 Completed audit packages:
 
 - AUD-001 - Access and ownership inventory
 - AUD-002 - DNS, nameserver, and email-authentication baseline
+- AUD-003 - Production architecture, hosting, and origin behavior
 
 Audit planning owner: Claude.
 Execution orchestrator: ChatGPT.
