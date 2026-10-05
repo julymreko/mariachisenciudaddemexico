@@ -1,6 +1,6 @@
 ﻿# AUD-002 — DNS, Nameserver, and Email-Authentication Baseline
 
-Status: PARTIAL — BLOCKED
+Status: COMPLETED WITH DEFERMENT
 Date: 2026-10-04
 Executor: Julián Cely / ChatGPT
 
@@ -244,7 +244,7 @@ Evidence:
 
 ## Evidence Limitation / Blocker
 
-### BLOCKER AUD-002-B01 — No authoritative Wix zone export or DNS-panel view
+### DEFERRED AUD-002-D01 — No authoritative Wix zone export or DNS-panel view
 
 The client controls the Wix registrar / authoritative DNS account.
 
@@ -277,8 +277,8 @@ Public DNS establishes the currently resolvable records queried during this audi
 
 ## Package Status
 
-`AUD-002` remains **PARTIAL — BLOCKED**.
+`AUD-002` is **COMPLETED WITH DEFERMENT** by Julián's explicit decision.
 
-The public and Zoho baseline is usable evidence, but the package does not meet Claude's completion criteria until an authoritative Wix zone view/export and registrar-side nameserver evidence become available, or Julián explicitly waives/defer those requirements.
+The public and Zoho baseline is accepted as the current audit baseline. Authoritative Wix zone/export and registrar-side nameserver evidence are explicitly deferred until migration-related work and must be captured before any production DNS or nameserver change.
 
 No DNS, email, registrar, nameserver, or production configuration was changed during this work.
