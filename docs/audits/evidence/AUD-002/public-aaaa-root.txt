@@ -1,0 +1,13 @@
+﻿Timestamp UTC: 2026-10-05T01:51:57Z
+
+
+Name              : mariachisenciudaddemexico.com
+Type              : SOA
+TTL               : 3600
+PrimaryServer     : ns14.wixdns.net
+NameAdministrator : support.wix.com
+SerialNumber      : 2021092919
+
+
+
+

@@ -1,0 +1,12 @@
+﻿Timestamp UTC: 2026-10-05T01:57:24Z
+
+
+Name    : zmail._domainkey.mariachisenciudaddemexico.com
+Type    : TXT
+TTL     : 3600
+Strings : {v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCcaDuqXGARtdDJEb7OlCJUA8c7AkRq0ybqAs+Uku9vAlRcxQEmim2jKUMUequCLNecl+pxqSLD3MIRwdwRDAXpy9nlv24QOKZyCQ
+          UDVpnjNuViu5MVnPjcA8od1hIBNnYrYyrQLFLKLRJ1XzYBiNBZdTAo9fgDfPMtAIOWYb6aSQIDAQAB}
+
+
+
+

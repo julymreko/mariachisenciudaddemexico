@@ -1,0 +1,7 @@
+﻿Timestamp UTC: 2026-10-05T01:59:26Z
+Source: Zoho Mail Admin Console
+Domain: mariachisenciudaddemexico.com
+SPF status: Configured successfully
+Expected SPF: v=spf1 include:zoho.com ~all
+Public DNS comparison: MATCH
+Observation: A prior Zoho warning reported an SPF discrepancy, but the current Zoho Admin state and public DNS now agree.

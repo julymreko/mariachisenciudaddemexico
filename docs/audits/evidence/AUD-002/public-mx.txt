@@ -1,0 +1,24 @@
+﻿Timestamp UTC: 2026-10-05T01:43:00Z
+
+
+Name         : mariachisenciudaddemexico.com
+Type         : MX
+TTL          : 3600
+NameExchange : mx3.zoho.com
+Preference   : 30
+
+Name         : mariachisenciudaddemexico.com
+Type         : MX
+TTL          : 3600
+NameExchange : mx.zoho.com
+Preference   : 10
+
+Name         : mariachisenciudaddemexico.com
+Type         : MX
+TTL          : 3600
+NameExchange : mx2.zoho.com
+Preference   : 20
+
+
+
+

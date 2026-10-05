@@ -1,0 +1,7 @@
+﻿Timestamp UTC: 2026-10-05T02:00:41Z
+Source: Zoho Mail Admin Console
+Domain: mariachisenciudaddemexico.com
+DKIM selector: zmail
+DKIM status: Successfully verified
+Public DNS comparison: MATCH
+Observation: The selector zmail is verified in Zoho and a corresponding public TXT record exists at zmail._domainkey.mariachisenciudaddemexico.com.

@@ -1,0 +1,16 @@
+﻿Timestamp UTC: 2026-10-05T02:04:22Z
+Source: Zoho Mail Admin Console + public DNS
+Domain: mariachisenciudaddemexico.com
+
+Zoho expected MX:
+10 mx.zoho.com
+20 mx2.zoho.com
+50 mx3.zoho.com
+
+Public DNS observed:
+10 mx.zoho.com
+20 mx2.zoho.com
+30 mx3.zoho.com
+
+Comparison: MISMATCH
+Observation: The tertiary MX host matches, but its priority differs: Zoho shows 50 while public DNS currently returns 30. No DNS change was made.

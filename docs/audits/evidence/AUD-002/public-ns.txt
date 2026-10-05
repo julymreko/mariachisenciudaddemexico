@@ -1,0 +1,18 @@
+﻿Timestamp UTC: 2026-10-04T05:43:40Z
+
+
+Name     : mariachisenciudaddemexico.com
+Type     : NS
+TTL      : 86400
+Section  : Answer
+NameHost : ns15.wixdns.net
+
+Name     : mariachisenciudaddemexico.com
+Type     : NS
+TTL      : 86400
+Section  : Answer
+NameHost : ns14.wixdns.net
+
+
+
+

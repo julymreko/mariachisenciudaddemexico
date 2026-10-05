@@ -1,0 +1,19 @@
+﻿Timestamp UTC: 2026-10-05T01:53:27Z
+
+
+Name     : www.mariachisenciudaddemexico.com
+Type     : CNAME
+TTL      : 3600
+Section  : Answer
+NameHost : mariachisenciudaddemexico.com
+
+
+Name      : mariachisenciudaddemexico.com
+QueryType : TXT
+TTL       : 3600
+Section   : Answer
+Strings   : {v=spf1 include:zoho.com ~all}
+
+
+
+

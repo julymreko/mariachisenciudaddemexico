@@ -1,0 +1,4 @@
+﻿Timestamp UTC: 2026-10-05T01:45:35Z
+Query: _dmarc.mariachisenciudaddemexico.com TXT
+Result: NXDOMAIN
+Observation: No public DMARC TXT record was found at the standard _dmarc host during this query.

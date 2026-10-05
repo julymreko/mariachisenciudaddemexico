@@ -1,0 +1,31 @@
+﻿Timestamp UTC: 2026-10-05T01:51:03Z
+
+
+Name     : www.mariachisenciudaddemexico.com
+Type     : CNAME
+TTL      : 3600
+Section  : Answer
+NameHost : mariachisenciudaddemexico.com
+
+
+Name       : mariachisenciudaddemexico.com
+QueryType  : A
+TTL        : 1800
+Section    : Answer
+IP4Address : 74.208.94.17
+
+
+Name                   : mariachisenciudaddemexico.com
+QueryType              : SOA
+TTL                    : 3600
+Section                : Authority
+NameAdministrator      : support.wix.com
+SerialNumber           : 2021092919
+TimeToZoneRefresh      : 10800
+TimeToZoneFailureRetry : 3600
+TimeToExpiration       : 1209600
+DefaultTTL             : 3600
+
+
+
+

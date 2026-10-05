@@ -1,0 +1,13 @@
+﻿Timestamp UTC: 2026-10-05T01:50:38Z
+
+
+Name       : mariachisenciudaddemexico.com
+Type       : A
+TTL        : 1800
+DataLength : 4
+Section    : Answer
+IPAddress  : 74.208.94.17
+
+
+
+

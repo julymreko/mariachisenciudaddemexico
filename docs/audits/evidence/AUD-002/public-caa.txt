@@ -1,0 +1,26 @@
+﻿Timestamp UTC: 2026-10-05T01:50:10Z
+Query: mariachisenciudaddemexico.com CAA
+Resolver: Google DNS-over-HTTPS
+Result: NO CAA ANSWER
+{
+    "Status":  0,
+    "TC":  false,
+    "RD":  true,
+    "RA":  true,
+    "AD":  false,
+    "CD":  false,
+    "Question":  [
+                     {
+                         "name":  "mariachisenciudaddemexico.com.",
+                         "type":  257
+                     }
+                 ],
+    "Authority":  [
+                      {
+                          "name":  "mariachisenciudaddemexico.com.",
+                          "type":  6,
+                          "TTL":  1710,
+                          "data":  "ns14.wixdns.net. support.wix.com. 2021092919 10800 3600 1209600 3600"
+                      }
+                  ]
+}

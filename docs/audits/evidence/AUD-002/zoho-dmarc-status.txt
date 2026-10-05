@@ -1,0 +1,6 @@
+﻿Timestamp UTC: 2026-10-05T02:02:44Z
+Source: Zoho Mail Admin Console
+Domain: mariachisenciudaddemexico.com
+DMARC status: Not configured
+Public DNS comparison: MATCH
+Observation: Zoho shows no active DMARC configuration, and the public query for _dmarc.mariachisenciudaddemexico.com returned NXDOMAIN.

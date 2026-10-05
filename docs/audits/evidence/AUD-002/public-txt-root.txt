@@ -1,0 +1,11 @@
+﻿Timestamp UTC: 2026-10-05T01:43:57Z
+
+
+Name    : mariachisenciudaddemexico.com
+Type    : TXT
+TTL     : 3600
+Strings : {v=spf1 include:zoho.com ~all}
+
+
+
+
