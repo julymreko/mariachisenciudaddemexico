@@ -12,11 +12,11 @@ IN_PROGRESS
 
 ## Active Working Item
 
-None - AUD-003 completed.
+AUD-004 - URL inventory, HTTP status, redirects, and canonical behavior.
 
 ## Next Approved Item
 
-None. AUD-004 is pending Julian's explicit approval.
+Execute AUD-004 as defined in `docs/AUDIT-PLAN.md`.
 
 ## Production State
 
@@ -31,7 +31,7 @@ None. AUD-004 is pending Julian's explicit approval.
 
 ## Audit State
 
-AUD-003_COMPLETED
+AUD-004_APPROVED
 
 Completed audit packages:
 
