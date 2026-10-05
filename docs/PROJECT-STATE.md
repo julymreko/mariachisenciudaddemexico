@@ -1,6 +1,6 @@
 ﻿# PROJECT STATE
 
-Last updated: 2026-10-04
+Last updated: 2026-10-05
 
 ## Current Phase
 
@@ -31,13 +31,15 @@ Execute AUD-004 as defined in `docs/AUDIT-PLAN.md`.
 
 ## Audit State
 
-AUD-004_APPROVED
+AUD-004_PARTIAL
 
 Completed audit packages:
 
 - AUD-001 - Access and ownership inventory
 - AUD-002 - DNS, nameserver, and email-authentication baseline
 - AUD-003 - Production architecture, hosting, and origin behavior
+
+AUD-004 partial baseline captured on 2026-10-05. Production crawl evidence and URL-variant findings are documented in `docs/audits/AUD-004-url-inventory.md`. Final AUD-004 completion is pending merge of sitemap URLs from AUD-005 and Search Console URL data from AUD-006.
 
 Audit planning owner: Claude.
 Execution orchestrator: ChatGPT.
