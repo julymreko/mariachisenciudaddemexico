@@ -1,0 +1,7 @@
+Timestamp UTC: 2026-10-05T05:16:32Z
+Start URL: https://www.mariachisenciudaddemexico.com/
+Maximum URLs: 500
+Rate limit: 1.0 seconds between requests
+Concurrency: 1
+URLs crawled: 21
+GET only; internal anchor links only; query strings excluded; no forms/login/wp-admin/POST.
